@@ -1,0 +1,11 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    numbers = input().split()
+    answers = input().split()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9154
+status: Solved
+record: -1

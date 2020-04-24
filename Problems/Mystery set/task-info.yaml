@@ -1,0 +1,13 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # mystery_set has been defined
+    string = input()
+
+    # delete string from mystery_set
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8087
+status: Solved
+record: -1

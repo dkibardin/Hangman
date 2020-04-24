@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # place `import` statement at top of the program
+
+
+    # don't modify this code or variable `n` may not be available
+    n = int(input())
+
+    # put your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7178
+status: Solved
+record: -1

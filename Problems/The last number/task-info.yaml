@@ -1,0 +1,11 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # use this tuple
+    numbers = tuple(int(n) for n in input().split())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7471
+status: Solved
+record: -1

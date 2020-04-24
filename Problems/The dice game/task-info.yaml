@@ -1,0 +1,12 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # The `random` module has been imported.
+    # Use a function from it in the next line
+    print(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6267
+status: Solved
+record: -1

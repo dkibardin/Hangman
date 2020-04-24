@@ -1,0 +1,17 @@
+type: code
+custom_name: E ** x minus one
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # place `import` statement at top of the program
+
+
+    # don't modify this code or variable `x` may not be available
+    x = int(input())
+
+    # use expm1() here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7176
+status: Solved
+record: -1

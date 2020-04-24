@@ -1,0 +1,9 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: '# please, work with the variables ''Belov'', ''Smith'', and ''Sarada'''
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6649
+status: Solved
+record: -1

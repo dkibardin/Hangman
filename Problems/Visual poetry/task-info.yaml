@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    print("      *  *  *     ")
+    print("    *         *   ")
+    print("  *    Which   *  ")
+    print(" *  came first: * ")
+    print("*  the  chicken  *")
+    print(" *   or   the   * ")
+      print(" *   egg?   *")
+    print("     *  *  *     ")
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8308
+status: Solved
+record: -1

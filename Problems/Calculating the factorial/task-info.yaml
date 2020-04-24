@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # place `import` statement at top of the program
+
+
+    # don't modify this code or variable `x` may not be available
+    x = int(input())
+
+    # use factorial() here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6022
+status: Solved
+record: -1

@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # place `import` statement at top of the program
+
+
+    # don't modify this code or the variable may not be available
+    input_string = input()
+
+    # use capwords() here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7177
+status: Solved
+record: -1

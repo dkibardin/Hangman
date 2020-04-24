@@ -1,0 +1,14 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    import random
+
+
+    # work with this variable
+    n = int(input())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7003
+status: Solved
+record: -1
